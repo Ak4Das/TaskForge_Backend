@@ -1,0 +1,7 @@
+[
+  { "name": "Urgent" },
+  { "name": "Bug" },
+  { "name": "Feature" },
+  { "name": "Design-System" },
+  { "name": "Documentation" }
+]

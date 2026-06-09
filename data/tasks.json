@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Fix edge-case authentication middleware crash",
+    "project": "6a26c49bc93adbf02c42258c",
+    "team": "6a26c3d290f1b36f142c25c3",
+    "owners": ["64f5826ac278d930b214a001"],
+    "tags": ["Bug", "Urgent"],
+    "timeToComplete": 1,
+    "status": "In Progress"
+  },
+  {
+    "name": "Create digital brand moodboard and typography system",
+    "project": "6a26c49bc93adbf02c42258d",
+    "team": "6a26c3d290f1b36f142c25c4",
+    "owners": ["64f5826ac278d930b214a002"],
+    "tags": ["Design-System"],
+    "timeToComplete": 3,
+    "status": "Completed"
+  },
+  {
+    "name": "Implement Chart.js reports dashboard layout",
+    "project": "6a26c49bc93adbf02c42258c",
+    "team": "6a26c3d290f1b36f142c25c3",
+    "owners": ["64f5826ac278d930b214a001", "64f5826ac278d930b214a002"],
+    "tags": ["Feature"],
+    "timeToComplete": 4,
+    "status": "To Do"
+  },
+  {
+    "name": "Draft copy strings for app store optimization (ASO)",
+    "project": "6a26c49bc93adbf02c42258c",
+    "team": "6a26c3d290f1b36f142c25c5",
+    "owners": ["64f5826ac278d930b214a003"],
+    "tags": ["Documentation"],
+    "timeToComplete": 2,
+    "status": "Completed"
+  },
+  {
+    "name": "Set up production MongoDB cluster environment deployment",
+    "project": "6a26c49bc93adbf02c42258c",
+    "team": "6a26c3d290f1b36f142c25c3",
+    "owners": ["64f5826ac278d930b214a001"],
+    "tags": ["Urgent"],
+    "timeToComplete": 2,
+    "status": "Blocked"
+  }
+]

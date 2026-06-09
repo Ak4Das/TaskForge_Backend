@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "6a26c3d290f1b36f142c25c3",
+    "name": "Development",
+    "description": "Core software engineering, architecture, and API integration.",
+    "members": ["64f5826ac278d930b214a001", "64f5826ac278d930b214a003"]
+  },
+  {
+    "_id": "6a26c3d290f1b36f142c25c4",
+    "name": "Design",
+    "description": "UI/UX design, brand identity, and asset prototyping.",
+    "members": ["64f5826ac278d930b214a002"]
+  },
+  {
+    "_id": "6a26c3d290f1b36f142c25c5",
+    "name": "Marketing",
+    "description": "Growth, product copy, and client-facing digital campaigns.",
+    "members": ["64f5826ac278d930b214a003", "64f5826ac278d930b214a002"]
+  }
+]

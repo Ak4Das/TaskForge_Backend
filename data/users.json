@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "64f5826ac278d930b214a001",
+    "name": "Alex Rivera",
+    "email": "alex.rivera@workasana.com",
+    "password": "ar@123456"
+  },
+  {
+    "_id": "64f5826ac278d930b214a002",
+    "name": "Sarah Chen",
+    "email": "sarah.chen@workasana.com",
+    "password": "sc@123456"
+  },
+  {
+    "_id": "64f5826ac278d930b214a003",
+    "name": "Marcus Todd",
+    "email": "marcus.todd@workasana.com",
+    "password": "mt@123456"
+  }
+]
